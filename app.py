@@ -6,8 +6,8 @@ from PIL import Image
 pillow_heif.register_heif_opener()
 
 # --- CONFIGURATION ---
-INPUT_DIR = 'City Hall' 
-OUTPUT_DIR = 'Public/City Hall'
+INPUT_DIR = 'Sports Complex' 
+OUTPUT_DIR = 'Public/Sports Complex'
 
 # The quality level (1 to 95). 40 is a very AGGRESSIVE setting for max size reduction.
 QUALITY_LEVEL = 85
