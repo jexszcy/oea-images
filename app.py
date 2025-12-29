@@ -6,8 +6,8 @@ from PIL import Image
 pillow_heif.register_heif_opener()
 
 # --- CONFIGURATION ---
-INPUT_DIR = 'The  Pares Corner' 
-OUTPUT_DIR = 'Public/The  Pares Corner'
+INPUT_DIR = 'Medyo Cafe' 
+OUTPUT_DIR = 'Public/Medyo Cafe'
 
 # The quality level (1 to 95). 40 is a very AGGRESSIVE setting for max size reduction.
 QUALITY_LEVEL = 85
